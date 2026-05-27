@@ -36,7 +36,7 @@ You accept full responsibility for ensuring your actions comply with all legal a
 ---
 
 ## Requirements
-- Presumably any Edge versions on Windows/Linux that's Chromium based (from version 79 and newer, including 147). Microsoft has backpedaled and promised to fix this feature in version 148.
+- Presumably any Edge versions on Windows/Linux that's Chromium based (from version from 79 until 148). Microsoft backpedaled and fixed this feature in version 148.0.3967.83.
 - .NET Framework **4.8.1** (changed from 3.5 originally)
 - Can be run without Adminstrator rights, but will only be able to access Edge processes ran by the same user
 - If run with Administrator privileges, the program can access and read memory from other users’ Edge processes on the same machine 
